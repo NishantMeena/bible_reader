@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267071369330",
+    "project_id": "biblereader-68998",
+    "storage_bucket": "biblereader-68998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267071369330:android:3050a7d8b3244ac8f352eb",
+        "android_client_info": {
+          "package_name": "com.example.bible_reading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267071369330-a8ccvn5kk6u5iu21g48coqcla9srilrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt81PE3ux-UdPF86tOEx_8hWIDTE5Vluc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267071369330-a8ccvn5kk6u5iu21g48coqcla9srilrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
